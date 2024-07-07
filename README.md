@@ -9,4 +9,5 @@
 3. Raspberry Pi Pico x1  
 4. 聚合物鋰電池 x1  
 5. 定制PCB x1
-
+## 實現：
+開發中。。。
