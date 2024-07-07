@@ -8,4 +8,4 @@
 4. 聚合物鋰電池 x1  
 5. 定制PCB x1
 ## 原理：
-由Deltabeard/[RP2040-GB](https://github.com/deltabeard/RP2040-GB)修改而來，修改了ILI9225的屏幕驅動使其可以驅動ST7789屏幕，使用Raspberry Pi Pico運行GameBoy模擬器[Peanut-GB](https://github.com/deltabeard/Peanut-GB)搭配.gb後綴的ROM文件實現模擬GameBoy的效果，詳細原理可以參考上方兩個專案。
+由Deltabeard開發的[RP2040-GB](https://github.com/deltabeard/RP2040-GB)修改而來，修改了ILI9225的屏幕驅動使其可以驅動ST7789屏幕，使用Raspberry Pi Pico運行GameBoy模擬器[Peanut-GB](https://github.com/deltabeard/Peanut-GB)搭配.gb後綴的ROM文件實現模擬GameBoy的效果，詳細原理可以參考上方兩個專案。
