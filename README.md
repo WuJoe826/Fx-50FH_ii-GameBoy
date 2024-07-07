@@ -7,4 +7,4 @@
 > Raspberry Pi Pico x1  
 > 聚合物鋰電池 x1  
 > 定制PCB x1
-## 
+## 原理：
