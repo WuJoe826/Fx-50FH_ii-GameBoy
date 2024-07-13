@@ -58,8 +58,8 @@
     電源按鈕負 = VSYS
     
 ```
-TP4056模塊展示：
-![圖片參考名稱](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "Logo")
+TP4056模塊：
+![圖片](https://github.com/WuJoe826/Fx-50FH_ii-GameBoy/blob/main/Images/tp4056.png "TP4056模塊")
 ### 固件：
 開發中。。。
 
