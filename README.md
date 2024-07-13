@@ -58,6 +58,8 @@
     電源按鈕負 = VSYS
     
 ```
+TP4056模塊展示：
+![圖片參考名稱](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "Logo")
 ### 固件：
 開發中。。。
 
