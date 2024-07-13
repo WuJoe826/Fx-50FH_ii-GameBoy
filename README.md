@@ -66,7 +66,7 @@
 ### 固件：
 #### 準備Raspberry Pi Pico：  
 每次燒錄前需要按住Raspberry Pi Pico的`BOOTSEL`按鈕，之後用Micro USB綫鏈接它到你的的電腦，當見到`RPI-RP2`裝置在你的電腦出現便可以鬆開。  
-使用了YouMakeTech製作的[Pico-GB](https://github.com/YouMakeTech)Raspberry Pi Pico Gameboy燒錄包（`.uf2`後綴），可以在他的專案的[release](https://github.com/YouMakeTech/Pico-GB/releases/tag/20230510)裏面下載燒錄文件,下載後直接拖到Raspberry Pi Pico中即可。  
+使用了YouMakeTech製作的[Pico-GB](https://github.com/YouMakeTech)Raspberry Pi Pico Gameboy燒錄包（`.uf2`後綴），可以在他的專案的[release](https://github.com/YouMakeTech/Pico-GB/releases/tag/20230510)裏面下載燒錄文件，下載後直接拖到Raspberry Pi Pico中即可。  
 #### 準備SD卡：
 ！！推薦使用8GB以上的Micro SD卡！！  
 把SD卡插入SD卡讀卡器/電腦自備的SD卡槽中，然後把你所擁有的.gb後綴ROM文件抄錄到SD卡中即可。  
