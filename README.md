@@ -5,7 +5,7 @@
 使用了Deltabeard開發的[RP2040-GB](https://github.com/deltabeard/RP2040-GB)，利用Raspberry Pi Pico運行GameBoy模擬器[Peanut-GB](https://github.com/deltabeard/Peanut-GB)搭配`.gb`後綴的ROM文件實現模擬GameBoy的效果，詳細原理可以參考前面兩個專案。
 ## 所需物品：
 1. Fx-50FH-ii計數機外殼
-2. 2.0寸TFT ILI9225 屏幕
+2. 2.0寸TFT ILI9225 屏幕（自帶Micro SD卡卡槽）
 3. Raspberry Pi Pico 
 4. 1500mAh聚合物鋰電池
 5. 邏輯PCB（包涵按鍵+拓展）
@@ -64,5 +64,12 @@
 #### 實際效果：
 
 ### 固件：
-開發中。。。
+#### 準備Raspberry Pi Pico：  
+每次燒錄前需要按住Raspberry Pi Pico的`BOOTSEL`按鈕，之後用Micro USB綫鏈接它到你的的電腦，當見到`RPI-RP2`裝置在你的電腦出現便可以鬆開。  
+使用了YouMakeTech製作的[Pico-GB](https://github.com/YouMakeTech)Raspberry Pi Pico Gameboy燒錄包（`.uf2`後綴），可以在他的專案的[release](https://github.com/YouMakeTech/Pico-GB/releases/tag/20230510)裏面下載燒錄文件,下載後直接拖到Raspberry Pi Pico中即可。  
+#### 準備SD卡：
+！！推薦使用8GB以上的Micro SD卡！！  
+把SD卡插入SD卡讀卡器/電腦自備的SD卡槽中，然後把你所擁有的.gb後綴ROM文件抄錄到SD卡中即可。  
+完成以上後請把Micro SD卡插到2.0寸TFT ILI9225 屏幕的SD卡槽中。
+
 
