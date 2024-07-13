@@ -75,6 +75,7 @@
 把SD卡插入SD卡讀卡器/電腦自備的SD卡槽中，SD卡的格式必須爲`FAT32`。  
 然後把你所擁有的.gb後綴ROM文件抄錄到SD卡中即可。  
 完成以上後請把Micro SD卡插到2.0寸TFT ILI9225 屏幕的SD卡槽中即可。
+### 外觀： 
 
 ## 注意事項：
 - 請見YouMakeTech的[Pico-GB](https://github.com/YouMakeTech)專案中的Known issues and limitations。
