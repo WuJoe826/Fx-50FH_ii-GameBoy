@@ -66,7 +66,7 @@
 ### 固件：
 #### 準備Raspberry Pi Pico：  
 每次燒錄前需要按住Raspberry Pi Pico的`BOOTSEL`按鈕，之後用Micro USB綫鏈接它到你的的電腦，當見到`RPI-RP2`裝置在你的電腦出現便可以鬆開。  
-使用了YouMakeTech製作的[Pico-GB](https://github.com/YouMakeTech)Raspberry Pi Pico Gameboy燒錄包（`.uf2`後綴），可以在他的專案的[release](https://github.com/YouMakeTech/Pico-GB/releases/tag/20230510)裏面下載燒錄文件，下載後直接拖到Raspberry Pi Pico中即可。  
+使用了YouMakeTech製作的[Pico-GB](https://github.com/YouMakeTech)Raspberry Pi Pico Gameboy燒錄包（`.uf2`後綴），可以在他的專案的[Release](https://github.com/YouMakeTech/Pico-GB/releases/tag/20230510)裏面下載燒錄文件，下載後直接拖到Raspberry Pi Pico中即可。  
 #### 準備SD卡：
 ！！推薦使用8GB以上的Micro SD卡！！  
 把SD卡插入SD卡讀卡器/電腦自備的SD卡槽中，SD卡的格式必須爲`FAT32`。  
@@ -74,7 +74,7 @@
 完成以上後請把Micro SD卡插到2.0寸TFT ILI9225 屏幕的SD卡槽中即可。
 
 ### 注意事項：
-- 請見[Pico-GB](https://github.com/YouMakeTech)的Known issues and limitations。
+- 請見YouMakeTech的[Pico-GB](https://github.com/YouMakeTech)專案中的Known issues and limitations。
 - 使用以上PCB以及根據本人之教學進行改裝後的任何產物均只能用作個人/非商業用途。
 - 對於因爲個人改裝後導致任何經濟或者其他方面的損失本人皆不負責。
 - 此專案并非推薦各位自行改裝自己完好的Fx-50FH_ii計數機，本人所使用於改裝的計數機本來已經損壞，專案内所有内容只為娛樂用途。
