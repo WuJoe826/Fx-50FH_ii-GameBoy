@@ -4,17 +4,17 @@
 ## 原理：
 使用了Deltabeard開發的[RP2040-GB](https://github.com/deltabeard/RP2040-GB)，利用Raspberry Pi Pico運行GameBoy模擬器[Peanut-GB](https://github.com/deltabeard/Peanut-GB)搭配`.gb`後綴的ROM文件實現模擬GameBoy的效果，詳細原理可以參考前面兩個專案。
 ## 所需物品：
-1. Fx-50FH-ii計數機外殼
-2. 2.0寸TFT ILI9225 屏幕（自帶Micro SD卡卡槽）
-3. Raspberry Pi Pico 
-4. 1500mAh聚合物鋰電池
-5. 邏輯PCB（包涵按鍵+拓展）
-6. TP4056充電放電模塊
-7. 3w無綫充電模塊
-8. 電源按鈕（自鎖按鈕1208YD）
-9. 壓克力屏幕蓋板/3D打印屏幕蓋板
-10. 鍋仔片按鈕5mm*5mm
-11. M2*3mm螺絲
+- Fx-50FH-ii計數機外殼
+- 2.0寸TFT ILI9225 屏幕（自帶Micro SD卡卡槽）
+- Raspberry Pi Pico 
+- 1500mAh聚合物鋰電池
+- 邏輯PCB（包涵按鍵+拓展）
+- TP4056充電放電模塊
+- 3w無綫充電模塊
+- 電源按鈕（自鎖按鈕1208YD）
+- 壓克力屏幕蓋板/3D打印屏幕蓋板
+- 鍋仔片按鈕5mm*5mm
+- M2*3mm螺絲
 ## 製作指南：
 ### 硬件： 
 於Hardware文件夾中可以檢視，  
