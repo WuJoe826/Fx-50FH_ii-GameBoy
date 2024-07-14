@@ -1,4 +1,4 @@
-# Fx-50FH_ii-GameBoy
+
 ## 簡介：
 > 將考評局認證的Fx-50FH-ii計數機改裝成Nintendo GameBoy，可以游玩初代GameBoy游戲，使用無綫充電。
 ## 原理：
