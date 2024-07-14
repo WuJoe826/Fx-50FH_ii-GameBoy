@@ -63,7 +63,7 @@
     電源按鈕負 = VSYS
 ``` 
 #### 電源接綫：
-![圖片](https://github.com/WuJoe826/Fx-50FH_ii-GameBoy/blob/main/Images/wiring1.png "接綫")
+![圖片](https://github.com/WuJoe826/Fx-50FH_ii-GameBoy/blob/main/Images/power_wiring.png "接綫")
 
 ### 固件：
 #### 準備Raspberry Pi Pico：  
