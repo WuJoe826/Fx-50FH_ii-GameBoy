@@ -62,10 +62,7 @@
     邏輯板上BAT- = GND
     電源按鈕負 = VSYS
 ``` 
-#### TP4056模塊：
-![圖片](https://github.com/WuJoe826/Fx-50FH_ii-GameBoy/blob/main/Images/tp4056.png "TP4056模塊")
-
-#### 實際效果：
+#### 電源接綫：
 ![圖片](https://github.com/WuJoe826/Fx-50FH_ii-GameBoy/blob/main/Images/wiring.png "接綫")
 
 ### 固件：
