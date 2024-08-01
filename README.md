@@ -43,8 +43,8 @@
 ```
     上 = GP2 
     下 = GP3  
-    左 = GP4  
-    右 = GP5  
+    左 = GP5  
+    右 = GP4  
     A = GP6  
     B = GP7  
     SELECT = GP8  
