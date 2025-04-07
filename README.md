@@ -1,6 +1,6 @@
 
 ## 簡介：
-> 將考評局認證的Fx-50FH-ii計數機改裝成Nintendo GameBoy，可以游玩初代GameBoy游戲，使用無綫充電。
+> 將考評局認證的Fx-50FH-ii計數機改裝成Game Console，使用無綫充電。
 ## 原理：
 使用了Deltabeard開發的[RP2040-GB](https://github.com/deltabeard/RP2040-GB)，利用Raspberry Pi Pico運行GameBoy模擬器[Peanut-GB](https://github.com/deltabeard/Peanut-GB)搭配`.gb`後綴的ROM文件實現模擬GameBoy的效果，詳細原理可以參考前面兩個專案。
 ## 所需物品：
